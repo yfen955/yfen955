@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yfen955.
 - 👀 I’m interested in software and game development.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning Vue.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 Here is my email: arthur.f.kirkland.jones@gmail.com
 
